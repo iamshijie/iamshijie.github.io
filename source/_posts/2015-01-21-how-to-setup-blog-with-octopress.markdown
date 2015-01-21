@@ -4,6 +4,7 @@ title: "使用octopress创建个人博客"
 date: 2015-01-21 10:02:40 +0800
 comments: true
 categories: 
+sharing: true
 ---
 
 Refer to [this link](http://octopress.org/docs/setup)
