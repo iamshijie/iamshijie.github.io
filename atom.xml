@@ -1,123 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>This is Shi Jie. Nice to meet you.</title>
-  <meta name="author" content="Shi Jie">
-
-  
-  <meta name="description" content="
-">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://iamshijie.github.io/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="This is Shi Jie. Nice to meet you." type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">This is Shi Jie. Nice to meet you.</a></h1>
-  
-    <h2>Better qulity, better life</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="iamshijie.github.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[This is Shi Jie. Nice to meet you.]]></title>
+  <link href="http://iamshijie.github.io/atom.xml" rel="self"/>
+  <link href="http://iamshijie.github.io/"/>
+  <updated>2015-01-25T00:42:30+08:00</updated>
+  <id>http://iamshijie.github.io/</id>
+  <author>
+    <name><![CDATA[Shi Jie]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2015/01/22/retro/">Retro</a></h1>
-    
-    
-      <p class="meta">
-        
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-
-
-
-<time class='entry-date' datetime='2015-01-22T17:18:36+08:00'><span class='date'><span class='date-month'>Jan</span> <span class='date-day'>22</span><span class='date-suffix'>nd</span>, <span class='date-year'>2015</span></span> <span class='time'>5:18 pm</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">
-</div>
   
+  <entry>
+    <title type="html"><![CDATA[Retro]]></title>
+    <link href="http://iamshijie.github.io/blog/2015/01/22/retro/"/>
+    <updated>2015-01-22T17:18:36+08:00</updated>
+    <id>http://iamshijie.github.io/blog/2015/01/22/retro</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/01/21/consumer-driven-contract-testing-pact-and-pacto/">Consumer-Driven Contracts Test - Pact & Pacto</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2015-01-21T19:06:36+08:00'><span class='date'><span class='date-month'>Jan</span> <span class='date-day'>21</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>7:06 pm</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>实施microservices<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> (小、松耦合、多服务、多语言、自动部署、易扩展、易集成、分布式&hellip;)架构后，测试变成为了一个难题，如何在多语言、多系统、甚至异步与动态消息的情况下进行测试？如何在build(构建)中进行自动化测试？如何进行集成测试<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>？</p>
+  <entry>
+    <title type="html"><![CDATA[Consumer-Driven Contracts Test - Pact & Pacto]]></title>
+    <link href="http://iamshijie.github.io/blog/2015/01/21/consumer-driven-contract-testing-pact-and-pacto/"/>
+    <updated>2015-01-21T19:06:36+08:00</updated>
+    <id>http://iamshijie.github.io/blog/2015/01/21/consumer-driven-contract-testing-pact-and-pacto</id>
+    <content type="html"><![CDATA[<p>实施microservices<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> (小、松耦合、多服务、多语言、自动部署、易扩展、易集成、分布式&hellip;)架构后，测试变成为了一个难题，如何在多语言、多系统、甚至异步与动态消息的情况下进行测试？如何在build(构建)中进行自动化测试？如何进行集成测试<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>？</p>
 
 <p>很多人会想到一些名词/工具：stub, mock, fake, dummy, spy, <a href="WebMock">WebMock</a>, <a href="https://github.com/vcr/vcr">vcr</a>, <a href="http://www.thoughtworks.com/radar/tools/mountebank">mountebank</a>&hellip;类似名词有很多，这些工具的思路也都类似，即在服务提供方和服务消费者之间，模拟/拦截消费者的请求，伪造一个结果请求结果返回给消费者，就如Martin Fowler说的</p>
 
@@ -164,9 +74,9 @@
 
 <p>工作原理<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> ：</p>
 
-<p><img src="/images/pact-step1.png" alt="pact-step1.png" /></p>
+<p><img src="http://iamshijie.github.io/images/pact-step1.png" alt="pact-step1.png" /></p>
 
-<p><img src="/images/pact-step2.png" alt="pact-step2.png" /></p>
+<p><img src="http://iamshijie.github.io/images/pact-step2.png" alt="pact-step2.png" /></p>
 
 <p>Pact以gem的形式提供，gem地址：<a href="https://rubygems.org/gems/pact">https://rubygems.org/gems/pact</a></p>
 
@@ -217,7 +127,7 @@
 <li><p><a href="http://techblog.realestate.com.au/testing-interactions-with-web-services-without-integration-tests-in-ruby/">realestate.com.au:http://techblog.realestate.com.au/testing-interactions-with-web-services-without-integration-tests-in-ruby/</a></p></li>
 <li><p>微服务测试</p>
 
-<p> <a href="http://martinfowler.com/articles/microservice-testing/#agenda"><img src="/images/microservice-testing-summary.png" alt="microservice-testing-summary.png" /></a></p></li>
+<p> <a href="http://martinfowler.com/articles/microservice-testing/#agenda"><img src="http://iamshijie.github.io/images/microservice-testing-summary.png" alt="microservice-testing-summary.png" /></a></p></li>
 <li><p><a href="https://github.com/realestate-com-au/pact/wiki/FAQ#how-does-pact-differ-from-pacto">Pact and Pacto</a></p></li>
 </ol>
 
@@ -235,35 +145,15 @@
 </ol>
 </div>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/01/21/how-to-setup-blog-with-octopress/">使用octopress创建个人博客</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2015-01-21T10:02:40+08:00'><span class='date'><span class='date-month'>Jan</span> <span class='date-day'>21</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>10:02 am</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Refer to <a href="http://octopress.org/docs/setup">this link</a></p>
+  <entry>
+    <title type="html"><![CDATA[使用octopress创建个人博客]]></title>
+    <link href="http://iamshijie.github.io/blog/2015/01/21/how-to-setup-blog-with-octopress/"/>
+    <updated>2015-01-21T10:02:40+08:00</updated>
+    <id>http://iamshijie.github.io/blog/2015/01/21/how-to-setup-blog-with-octopress</id>
+    <content type="html"><![CDATA[<p>Refer to <a href="http://octopress.org/docs/setup">this link</a></p>
 
 <p>开始之前的准备工作：安装Git、ruby、bundler。</p>
 
@@ -323,66 +213,7 @@
 </code></pre></li>
 </ol>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2015/01/22/retro/">Retro</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/21/consumer-driven-contract-testing-pact-and-pacto/">Consumer-Driven Contracts Test - Pact & Pacto</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/21/how-to-setup-blog-with-octopress/">使用octopress创建个人博客</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Shi Jie -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
