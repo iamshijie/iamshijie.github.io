@@ -8,10 +8,11 @@
   {% if site.facebook_like %}
     <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
   {% endif %}
-  {% if site.share %}
+  {% if site.jiathis_share %}
      {% include post/jiathis_share.html %}
-  {% endif %}
-  {% if site.uyan_comments %}
-     {% include post/uyan.html %}
-  {% endif %}
+ {% endif %}
+    <div style="margin-top:20px"></div>
+ {% if site.uyan_comments %}
+    {% include post/uyan.html %}
+ {% endif %}
 </div>
