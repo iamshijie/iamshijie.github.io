@@ -10,6 +10,8 @@ categories:
 
 ##讲师项目及感悟
 
+A session from ThoughWorker 陈思(UX)
+
 1. global blue 国际蓝联
 
 
