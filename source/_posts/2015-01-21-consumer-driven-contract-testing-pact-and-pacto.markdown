@@ -64,6 +64,8 @@ Pact以gem的形式提供，gem地址：[https://rubygems.org/gems/pact](https:/
 
 一些最佳实践：[Pact-best-practices](https://github.com/realestate-com-au/pact/wiki/Best-practices)
 
+[Example](https://github.com/realestate-com-au/pact/tree/master/example)
+
 
 ## Pacto
 
@@ -76,6 +78,10 @@ Response clause定义了服务提供方需要返回给消费者的信息，从�
 通常通过产生、校验、服务打桩三部分。
 
 使用方法：[https://github.com/thoughtworks/pacto#usage](https://github.com/thoughtworks/pacto#usage)或者这里[http://thoughtworks.github.io/pacto/usage/](http://thoughtworks.github.io/pacto/usage/)
+
+[Exmaple API](https://github.com/thoughtworks/pacto/tree/master/sample_apis)
+
+[Sample APP](https://github.com/thoughtworks/pacto/tree/master/samples)
 
 ##区别：
 
