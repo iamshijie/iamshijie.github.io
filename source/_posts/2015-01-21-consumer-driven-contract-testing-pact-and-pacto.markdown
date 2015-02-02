@@ -56,8 +56,6 @@ Pact为服务消费者提供了API，用来定义消费者对服务提供方的h
 
 ![pact-step1.png](/images/pact-step1.png)
 
-![pact-step2.png](/images/pact-step2.png)
-
 Pact以gem的形式提供，gem地址：[https://rubygems.org/gems/pact](https://rubygems.org/gems/pact)
 
 使用方法：[https://github.com/realestate-com-au/pact#installation](https://github.com/realestate-com-au/pact#installation)
@@ -77,7 +75,7 @@ Response clause定义了服务提供方需要返回给消费者的信息，从�
 
 通常通过产生、校验、服务打桩三部分。
 
-使用方法：[https://github.com/thoughtworks/pacto#usage](https://github.com/thoughtworks/pacto#usage)或者这里[http://thoughtworks.github.io/pacto/usage/](http://thoughtworks.github.io/pacto/usage/)
+使用方法：[https://github.com/thoughtworks/pacto#usage](https://github.com/thoughtworks/pacto#usage) 或 [http://thoughtworks.github.io/pacto/usage/](http://thoughtworks.github.io/pacto/usage/)
 
 [Exmaple API](https://github.com/thoughtworks/pacto/tree/master/sample_apis)
 
