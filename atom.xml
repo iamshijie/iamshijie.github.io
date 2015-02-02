@@ -4,7 +4,7 @@
   <title><![CDATA[This is Shi Jie. Nice to meet you.]]></title>
   <link href="http://iamshijie.github.io/atom.xml" rel="self"/>
   <link href="http://iamshijie.github.io/"/>
-  <updated>2015-01-31T09:55:34+08:00</updated>
+  <updated>2015-02-02T13:04:09+08:00</updated>
   <id>http://iamshijie.github.io/</id>
   <author>
     <name><![CDATA[Shi Jie]]></name>
@@ -241,8 +241,6 @@
 
 <p><img src="http://iamshijie.github.io/images/pact-step1.png" alt="pact-step1.png" /></p>
 
-<p><img src="http://iamshijie.github.io/images/pact-step2.png" alt="pact-step2.png" /></p>
-
 <p>Pact以gem的形式提供，gem地址：<a href="https://rubygems.org/gems/pact">https://rubygems.org/gems/pact</a></p>
 
 <p>使用方法：<a href="https://github.com/realestate-com-au/pact#installation">https://github.com/realestate-com-au/pact#installation</a></p>
@@ -261,7 +259,7 @@
 
 <p>通常通过产生、校验、服务打桩三部分。</p>
 
-<p>使用方法：<a href="https://github.com/thoughtworks/pacto#usage">https://github.com/thoughtworks/pacto#usage</a>或者这里<a href="http://thoughtworks.github.io/pacto/usage/">http://thoughtworks.github.io/pacto/usage/</a></p>
+<p>使用方法：<a href="https://github.com/thoughtworks/pacto#usage">https://github.com/thoughtworks/pacto#usage</a> 或 <a href="http://thoughtworks.github.io/pacto/usage/">http://thoughtworks.github.io/pacto/usage/</a></p>
 
 <p><a href="https://github.com/thoughtworks/pacto/tree/master/sample_apis">Exmaple API</a></p>
 
