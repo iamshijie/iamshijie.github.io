@@ -4,7 +4,7 @@
   <title><![CDATA[This is Shi Jie. Nice to meet you.]]></title>
   <link href="http://iamshijie.github.io/atom.xml" rel="self"/>
   <link href="http://iamshijie.github.io/"/>
-  <updated>2015-02-02T13:04:09+08:00</updated>
+  <updated>2015-02-03T22:59:23+08:00</updated>
   <id>http://iamshijie.github.io/</id>
   <author>
     <name><![CDATA[Shi Jie]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Qulity Management]]></title>
+    <link href="http://iamshijie.github.io/blog/2015/02/03/qulity-management/"/>
+    <updated>2015-02-03T22:28:55+08:00</updated>
+    <id>http://iamshijie.github.io/blog/2015/02/03/qulity-management</id>
+    <content type="html"><![CDATA[<p>Keynote之前的思维导图整理：</p>
+
+<p><img src="http://iamshijie.github.io/images/%E6%95%8F%E6%8D%B7%E6%A8%A1%E5%BC%8F%E4%B8%8B%E7%9A%84%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86.png" alt="思维导图" /></p>
+
+<object data="/images/qulity_management.pdf" type="application/pdf" width="100%" height="600">
+<a href="http://iamshijie.github.io/images/qulity_management.pdf">qulity_management.pdf</a>
+</object>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[用户研究与表达]]></title>
