@@ -12,7 +12,7 @@ categories:
 
 A session from ThoughWorker 陈思(UX)
 
-1. global blue 国际蓝联
+1. 某客户
 
 
 2. 微软新输入设备设计：掀开盖头（扩展描述方法）
@@ -95,7 +95,7 @@ A session from ThoughWorker 陈思(UX)
 	
 		unconvering your feelings & dreams
 		
-## Global blue
+## 某客户
 
 1. 6~8个人就能发现80%的问题（定性的访谈，非定量）
 
